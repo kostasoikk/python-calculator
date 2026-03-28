@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Konstantinos Oikonomidis</title>
+</head>
+<body>
+
+    <h1>Konstantinos Oikonomidis</h1>
+    <p>Computer Science Student</p>
+
+    <h2>About Me</h2>
+    <p>I am a first-year Computer Science student learning programming and web development.</p>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>Python (basic)</li>
+        <li>Java (basic)</li>
+        <li>HTML (basic)</li>
+    </ul>
+
+    <h2>Projects</h2>
+    <ul>
+        <li>Python Calculator</li>
+    </ul>
+
+</body>
+</html>
